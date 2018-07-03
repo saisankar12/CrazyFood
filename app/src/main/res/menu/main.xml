@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_starters"
+        android:title="Starters" />
+    <item android:title="Vegetarian"
+        android:id="@+id/menu_vegetarian" />
+    <item android:title="Non-Vegetarian"
+        android:id="@+id/menu_nonveg">
+        <menu
+            android:id="@+id/id_spinner">
+            <item android:title="Chicken"
+                android:id="@+id/menu_chicken"/>
+            <item android:id="@+id/menu_seafood"
+                android:title="Seafood"/>
+        </menu>
+    </item>
+    <item android:title="Desert"
+        android:id="@+id/menu_desert"/>
+    <item android:title="Favourites"
+        android:id="@+id/menu_favourites"/>
+</menu>

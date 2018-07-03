@@ -1,0 +1,17 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="@dimen/widget_margin"
+    android:id="@+id/appwidget_text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:layout_margin="8dp"
+    android:background="#73bcf9"
+    android:textAlignment="center"
+    android:contentDescription="@string/appwidget_text"
+    android:text="@string/appwidget_text"
+    android:textColor="#ffffff"
+    android:textSize="24sp"
+    android:textStyle="bold|italic">
+
+</TextView>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896044560255",
+    "firebase_url": "https://ckjjfn.firebaseio.com",
+    "project_id": "ckjjfn",
+    "storage_bucket": "ckjjfn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896044560255:android:b89fedd982ca1aac",
+        "android_client_info": {
+          "package_name": "com.crazy.food.app.crazyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896044560255-37diq5c81l91s3377mp182lmdgk4lbnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crazy.food.app.crazyfood",
+            "certificate_hash": "8b79d8f28a7acf46a0d793a2743ffbff39c81753"
+          }
+        },
+        {
+          "client_id": "896044560255-j805glpeb95odn4ggq4pfq7b2flr8uf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcqM33Y1CGZa_T_JSW_ztz4UDk9LH2jM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896044560255-j805glpeb95odn4ggq4pfq7b2flr8uf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
